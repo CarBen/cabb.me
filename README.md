@@ -1,10 +1,7 @@
 
 # cabb
 
-Setup
------
-
-Development
+Local Development
 -----------
 
 *Notes *- *Run all instructions in* `this format` *from your terminal application**
