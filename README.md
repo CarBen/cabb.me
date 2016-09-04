@@ -1,7 +1,7 @@
 
 # cabb
 
-This site runs on https://jekyllrb.com/
+This site runs on https://jekyllrb.com/ and https://pages.github.com/
 
 Local Development
 -----------
