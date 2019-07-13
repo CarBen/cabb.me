@@ -1,5 +1,5 @@
 
-# [cabb](http://cabb.me)
+# [cabb.me](http://cabb.me)
 
-Personal website for Caro Ann Benovic-Bradley
+Personal website for Carol Ann Benovic-Bradley
 
